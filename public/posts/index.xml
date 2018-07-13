@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on thatMacAdmin&#39;s Blog</title>
+    <link>http://blog.macbytes.io/posts/</link>
+    <description>Recent content in Posts on thatMacAdmin&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jul 2018 14:43:27 -0400</lastBuildDate>
+    
+	<atom:link href="http://blog.macbytes.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://blog.macbytes.io/posts/my-first-post/</link>
+      <pubDate>Wed, 11 Jul 2018 14:43:27 -0400</pubDate>
+      
+      <guid>http://blog.macbytes.io/posts/my-first-post/</guid>
+      <description>H1 H2 H3 H4 H5 H6 Alt-H1 Alt-H2
+var s = &amp;quot;JavaScript syntax highlighting&amp;quot;; alert(s);  s = &amp;quot;Python syntax highlighting&amp;quot; print s  No language indicated, so no syntax highlighting. But let&#39;s throw in a &amp;lt;b&amp;gt;tag&amp;lt;/b&amp;gt;.  Inline code has back-ticks around it.
+Colons can be used to align columns.
+   Tables Are Cool     col 3 is right-aligned $1600   col 2 is centered $12   zebra stripes are neat $1    There must be at least 3 dashes separating each header cell.</description>
+    </item>
+    
+  </channel>
+</rss>

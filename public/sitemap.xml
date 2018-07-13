@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.macbytes.io/tags/tags/</loc>
+    <lastmod>2018-07-11T16:06:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/projects/chromebooks/</loc>
+    <lastmod>2018-07-11T16:02:53-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/posts/my-first-post/</loc>
+    <lastmod>2018-07-11T14:43:27-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/about/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/about/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/posts/</loc>
+    <lastmod>2018-07-11T14:43:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/projects/</loc>
+    <lastmod>2018-07-11T16:02:53-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/tags/</loc>
+    <lastmod>2018-07-11T16:06:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.macbytes.io/</loc>
+    <lastmod>2018-07-11T16:06:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

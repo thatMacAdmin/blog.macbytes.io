@@ -1,0 +1,55 @@
+baseURL = "http://blog.macbytes.io/"
+languageCode = "en-us"
+title = "thatMacAdmin's Blog"
+theme = "min_night"
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[params]
+    author = "Ed Shorrock"
+    description = "<p>A place for me to keep some random stuff about macOS,</p> <p>Macs and enterprise Mac management .</p>"
+    logo = "profile_small.png"
+    twitterAuthor = "@thatMacAdmin"
+    githubUsername = "thatMacAdmin"
+    accent = "#076ED9" # dark colors do best
+    backgroundColor = "#E5E5E5"
+    font = "Mina" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "lakeside-light" # make this match accent
+    highlightLanguages = ["swift", "python", "bash", "go", "xml", "json"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/posts/"
+    name = "Posts"
+    weight = 2
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 3
+
+[[menu.icon]]
+    url = "mailto:thatMacAdmin@macbytes.io"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/thatMacAdmin"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/thatMacAdmin/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/edshorrock/"
+    name = "linkedin"
+    weight = 4
