@@ -2,31 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thatMacAdmin&#39;s Blog</title>
-    <link>https://blog.macbytes.io/</link>
+    <link>https://atlialp.com/</link>
     <description>Recent content on thatMacAdmin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 11 Jul 2018 16:06:14 -0400</lastBuildDate>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 17 Jun 2019 13:26:10 -0400</lastBuildDate>
     
-	<atom:link href="https://blog.macbytes.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atlialp.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tags</title>
-      <link>https://blog.macbytes.io/tags/tags/</link>
-      <pubDate>Wed, 11 Jul 2018 16:06:14 -0400</pubDate>
+      <title>Penn State 2018</title>
+      <link>https://atlialp.com/talks/penn-state-2018/</link>
+      <pubDate>Mon, 17 Jun 2019 13:26:10 -0400</pubDate>
       
-      <guid>https://blog.macbytes.io/tags/tags/</guid>
+      <guid>https://atlialp.com/talks/penn-state-2018/</guid>
       <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>https://blog.macbytes.io/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Straightforward Privacy</title>
+      <link>https://atlialp.com/privacy/</link>
+      <pubDate>Mon, 17 Jun 2019 12:54:44 -0400</pubDate>
       
-      <guid>https://blog.macbytes.io/about/about/</guid>
-      <description>All about me! I am a macOS and Apple Technologies Engineer at Cardinal Health. I spend my time thinking about managing macs.</description>
+      <guid>https://atlialp.com/privacy/</guid>
+      <description>We do not collect or store your data. Ever.
+This is a static site run out of a Google Data bucket. We have no database or other functionality to store your information. That is on purpose. We believe that personal privacy starts and ends with personal data. To that end, your personal data will always stay where it should. With you.
+If you have any questions about this policy please email us at thatMacAdmin@macbytes.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://atlialp.com/about/</link>
+      <pubDate>Mon, 17 Jun 2019 12:15:35 -0400</pubDate>
+      
+      <guid>https://atlialp.com/about/</guid>
+      <description>Thanks for spending some time on theMacAdmins Blog! My name is Ed Shorrock, and I run the site. I live just north of Columbus Ohio with my wife, daughter and our two dogs. I am an engineer for Cardinal Health working on technologies such as:
+ Apple Devices iOS, iPadOS, macOS, tvOS Mobile Device Management App Publishing for Apple, Microsoft and Android stores Special Platforms  In my spare time I enjoy things regular people seem to enjoy like, cooking and spending time outside with my family and dogs.</description>
+    </item>
+    
+    <item>
+      <title>Musings on the Pro Display XDR</title>
+      <link>https://atlialp.com/posts/2019/06/musings-on-the-pro-display-xdr/</link>
+      <pubDate>Mon, 17 Jun 2019 11:23:52 -0400</pubDate>
+      
+      <guid>https://atlialp.com/posts/2019/06/musings-on-the-pro-display-xdr/</guid>
+      <description>When Apple unveiled the new Mac Pro and Pro Display XDR, I was at first taken aback by the price. At first glance,</description>
     </item>
     
   </channel>

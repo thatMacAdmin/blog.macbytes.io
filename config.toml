@@ -1,55 +1,97 @@
-baseURL = "https://blog.macbytes.io/"
-languageCode = "en-us"
-title = "thatMacAdmin's Blog"
-theme = "min_night"
+baseURL = "https://atlialp.com/"
+title   = "thatMacAdmin's Blog"
+
+DefaultContentLanguage = "en"
+theme = "hello-friend-ng"
+
+pygmentsCodefences = false
+pygmentsUseClasses = false
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+# googleAnalytics = ""
+# disqusShortname = ""
+
+buildDrafts  = false
+buildFuture  = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = true
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
 
 [permalinks]
-    post = "/:year/:month/:day/:slug/"
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Edward Shorrock"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+# [taxonomies]
+#   tag      = "tags"
+#   category = ""
 
 [params]
-    author = "Ed Shorrock"
-    description = "<p>A place for me to keep some random stuff about macOS, Macs and enterprise Mac management .</p>"
-    logo = "profile_small.png"
-    twitterAuthor = "@thatMacAdmin"
-    githubUsername = "thatMacAdmin"
-    accent = "#076ED9" # dark colors do best
-    backgroundColor = "#E5E5E5"
-    font = "Mina" # should match the name on Google Fonts!
-    highlight = true
-    highlightStyle = "lakeside-light" # make this match accent
-    highlightLanguages = ["swift", "python", "bash", "go", "xml", "json"]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
 
-[[menu.main]]
-    url = "/"
-    name = "Home"
-    weight = 1
+  # Metadata mostly used in document's head
+  description = "Homepage and blog by Djordje Atlialp"
+  keywords = "homepage, blog, science, informatics, development, programming, freelancer, selbstständig, projects, cloud, software"
+  images = [""]
 
-[[menu.main]]
-    url = "/posts/"
-    name = "Posts"
-    weight = 2
+  homeSubtitle = "Some musings on macOS, iOS, iPadOS and Apple."
 
-[[menu.main]]
-    url = "/tags/"
-    name = "Tags"
-    weight = 3
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
 
-[[menu.icon]]
-    url = "mailto:thatMacAdmin@macbytes.io"
-    name = "envelope-o"
-    weight = 1
+  [params.logo]
+    logoText     = "$ cd ~/"
+    logoHomeLink = "/"
 
-[[menu.icon]]
-    url = "https://github.com/thatMacAdmin"
-    name = "github"
-    weight = 2
-
-[[menu.icon]]
-    url = "https://twitter.com/thatMacAdmin/"
+  # Social icons
+  [[params.social]]
     name = "twitter"
-    weight = 3
+    url  = "https://twitter.com/thatMacAdmin/"
 
-[[menu.icon]]
-    url = "https://www.linkedin.com/in/edshorrock/"
+  [[params.social]]
+    name = "email"
+    url  = "mailto:thatMacAdmin@macbytes.io"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/thatMacAdmin/"
+
+  [[params.social]]
     name = "linkedin"
-    weight = 4
+    url  = "https://www.linkedin.com/in/edshorrock/"
+
+[languages]
+  [languages.en]
+    subtitle  = "Homepage & Blog"
+    weight    = 1
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "About"
+    url        = "about/"
+  [[menu.main]]
+    identifier = "posts"
+    name       = "Posts"
+    url        = "posts/"
+  [[menu.main]]
+    identifier = "talks"
+    name       = "Talks"
+    url        = "talks/"
