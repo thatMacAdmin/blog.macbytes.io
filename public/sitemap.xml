@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://blog.macbytes.io/tags/tags/</loc>
+    <lastmod>2018-07-11T16:06:14-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blog.macbytes.io/about/about/</loc>
   </url>
   
@@ -18,11 +23,18 @@
   
   <url>
     <loc>https://blog.macbytes.io/tags/</loc>
+    <lastmod>2018-07-11T16:06:14-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.macbytes.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://blog.macbytes.io/</loc>
+    <lastmod>2018-07-11T16:06:14-04:00</lastmod>
     <priority>0</priority>
   </url>
   

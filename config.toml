@@ -8,7 +8,7 @@ theme = "min_night"
 
 [params]
     author = "Ed Shorrock"
-    description = "<p>A place for me to keep some random stuff about macOS,</p> <p>Macs and enterprise Mac management .</p>"
+    description = "<p>A place for me to keep some random stuff about macOS, Macs and enterprise Mac management .</p>"
     logo = "profile_small.png"
     twitterAuthor = "@thatMacAdmin"
     githubUsername = "thatMacAdmin"
@@ -30,8 +30,8 @@ theme = "min_night"
     weight = 2
 
 [[menu.main]]
-    url = "/about/"
-    name = "About"
+    url = "/tags/"
+    name = "Tags"
     weight = 3
 
 [[menu.icon]]
