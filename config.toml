@@ -1,4 +1,4 @@
-baseURL = "https://atlialp.com/"
+baseURL = "https://blog.macbytes.io"
 title   = "thatMacAdmin's Blog"
 
 DefaultContentLanguage = "en"
@@ -46,14 +46,16 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Homepage and blog by Djordje Atlialp"
-  keywords = "homepage, blog, science, informatics, development, programming, freelancer, selbstständig, projects, cloud, software"
+  description = "Some musings on macOS, iOS, iPadOS and Apple."
+  keywords = "homepage, blog, apple, mac, macOS, iOS, iPadOS, macadmins, sysadmin, macadmin"
   images = [""]
 
   homeSubtitle = "Some musings on macOS, iOS, iPadOS and Apple."
 
   # Default theme "light" or "dark"
   defaultTheme = "dark"
+
+  gitUrl = "https://github.com/thatMacAdmin/blog.macbytes.io/commit/"
 
   [params.logo]
     logoText     = "$ cd ~/"
@@ -86,7 +88,7 @@ disableHugoGeneratorInject = false
   [[menu.main]]
     identifier = "about"
     name       = "About"
-    url        = "about/"
+    url        = "about"
   [[menu.main]]
     identifier = "posts"
     name       = "Posts"

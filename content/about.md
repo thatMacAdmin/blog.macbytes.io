@@ -14,4 +14,4 @@ Thanks for spending some time on theMacAdmins Blog! My name is Ed Shorrock, and 
 
 In my spare time I enjoy things regular people seem to enjoy like, cooking and spending time outside with my family and dogs.
 
-*Note: The posts, views and opinions expressed here are my own and are not the views of my employer, or anyone else for that matter.*
+*Important Note: The posts, views and opinions expressed here are my own and are not the views of my employer, or anyone else for that matter.*
