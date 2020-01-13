@@ -1,0 +1,17 @@
+{{ if ( isset .Site.Params "okta" ) }}
+  <script src="https://global.oktacdn.com/okta-signin-widget/3.1.0/js/okta-sign-in.min.js" type="text/javascript"></script>
+  <script>
+    window.okta = {
+      config: {
+        clientId: '{{ .Site.Params.okta.clientId }}',
+        baseUrl: '{{ .Site.Params.okta.baseUrl }}',
+        redirectUri: '{{ .Site.Params.okta.redirectUri }}'
+      }
+    }
+  </script>
+  {{ if eq ( replace ( .Permalink | relURL ) "/" "" ) "login" }}
+    <script src="/js/okta-login.js"></script>
+  {{ else }}
+    <script src="/js/okta.js"></script>
+  {{ end }}
+{{ end }}
