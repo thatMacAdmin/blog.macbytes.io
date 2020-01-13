@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>thatMacAdmin&#39;s Blog</title>
@@ -48,6 +48,15 @@ If you have any questions about this policy please email us at thatMacAdmin@macb
       
       <guid>https://blog.macbytes.io/posts/2019/06/musings-on-the-pro-display-xdr/</guid>
       <description>When Apple unveiled the new Mac Pro and Pro Display XDR, I was at first taken aback by the price. At first glance,</description>
+    </item>
+    
+    <item>
+      <title>Login</title>
+      <link>https://blog.macbytes.io/login/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.macbytes.io/login/</guid>
+      <description></description>
     </item>
     
   </channel>

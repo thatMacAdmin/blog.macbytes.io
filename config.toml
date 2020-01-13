@@ -97,3 +97,12 @@ disableHugoGeneratorInject = false
     identifier = "talks"
     name       = "Talks"
     url        = "talks/"
+  [[menu.main]]
+    identifier = "login"
+    name       = "Login"
+    url        = "/login"
+
+[params.okta]
+  clientId = "0oau16r2KPXjL07yp4x5"
+  baseUrl = "https://dev-725200.okta.com"
+  redirectUri = "https://blog.macbytes.io/login/"
