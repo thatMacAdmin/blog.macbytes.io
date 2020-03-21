@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>thatMacAdmin&#39;s Blog</title>
-    <link>https://blog.macbytes.io/</link>
-    <description>Recent content on thatMacAdmin&#39;s Blog</description>
+    <title>jamf on thatMacAdmin&#39;s Blog</title>
+    <link>https://blog.macbytes.io/tags/jamf/</link>
+    <description>Recent content in jamf on thatMacAdmin&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Thu, 19 Mar 2020 17:59:36 -0400</lastBuildDate>
     
-	<atom:link href="https://blog.macbytes.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.macbytes.io/tags/jamf/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
